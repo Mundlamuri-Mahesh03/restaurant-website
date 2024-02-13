@@ -32,7 +32,7 @@ const Footer = () => {
                 fontSize: "1rem",
             },
         }}>
-            All Rights Reserved &copy; Techinfo YT
+            All Rights Reserved &copy; Mundlamuri Mahesh
         </Typography>
     </Box>
     </>
